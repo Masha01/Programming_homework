@@ -1,4 +1,4 @@
-#Total No. of N-Gram Types: 19224
+﻿#Total No. of N-Gram Types: 19224
 #Total No. of N-Gram Tokens: 75222
 1	343	1	млрд руб
 2	315	1	в году
