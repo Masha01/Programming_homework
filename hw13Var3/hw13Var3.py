@@ -1,7 +1,7 @@
 import re
 import os
 def folder():
-    arr = [f for f in os.listdir('.')if re.search(r'[а-яА-Я]+',f)if os.path.isdir(f)]
+    arr = [f for f in os.listdir('.')if re.search(r'[а-яёЁА-Я]+',f)if os.path.isdir(f)]
     print(len(arr))
     return arr
 folder()
